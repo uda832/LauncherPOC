@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Launcher.Parent": {
+      "commandName": "Project",
+      "commandLineArgs": "Hello at 3317"
+    }
+  }
+}
